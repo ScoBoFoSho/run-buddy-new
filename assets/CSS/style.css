@@ -1,5 +1,30 @@
-
 body {
-    font-family: Helvetica, Arial, sans-serif;
-    background-color: tomato;
-  }
+  /* set a cool tone for the websites text, because running is cool! */
+  color: #fce138;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+footer {
+  padding: 20px 35px
+  background-color #39a6b2;
+  color:#39a6b2
+}
+
+header {
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+}
+
+header {
+  font-weight: bold;
+  font-size: 36;
+  color: #fce138;
+  margin: 0;
+  background-color:#39a6b2
+}
+header h1 {
+  color:#fce138;
+}
+
